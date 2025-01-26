@@ -130,6 +130,7 @@ curl -X 'POST' \
 ### 💡 REST API Fundamentals
 
 
+
 **What is FastAPI?**
 
 FastAPI is a modern, fast (high-performance) web framework for building APIs with Python. It is based on standard Python type hints and provides:
@@ -139,6 +140,8 @@ FastAPI is a modern, fast (high-performance) web framework for building APIs wit
 - Automatic documentation (Swagger UI)
 
 - Interactive API testing
+
+
 
 
 **Key Features of FastAPI:**
@@ -152,11 +155,15 @@ FastAPI is a modern, fast (high-performance) web framework for building APIs wit
 - `Asynchronous Support`: Allows sync and async endpoints for flexible request handling.
 
 
+
+
 **Request Methods:**
 
 -  `POST:` Used to send data to the server (e.g., /predict).
 
 - `GET:` Used to retrieve data from the server (e.g., /docs).
+
+
 
 
 ### 🌍 Deploying the API on Hugging Face
@@ -197,6 +204,8 @@ git push origin main
 - Visit the Space's URL to access the hosted API.
 
 
+
+
 ### 🎉 Contribution
 
 Feel free to fork the repository and submit pull requests. When contributing, please adhere to these guidelines:
@@ -208,9 +217,13 @@ Feel free to fork the repository and submit pull requests. When contributing, pl
 -  `Documentation `: Update the documentation if you add new features or make changes.
 
 
+
+
 ### 📞 Contact
 
 - For any questions or inquiries, feel free to reach out via open an issue in the repository.
+
+
 
 ### 💖 Acknowledgments
 
