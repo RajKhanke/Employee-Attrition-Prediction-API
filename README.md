@@ -92,7 +92,7 @@ To test the  `API ` server locally using swaggerUI,  you can use  `Run`, the fol
 ```bash
 http://127.0.0.1:8000/docs
 ```
-![image](https://github.com/RajKhanke/employee_attrition_prediction_API_FASTAPI/blob/main/Screenshot%202025-01-26%20133422.png)
+![image](https://github.com/RajKhanke/employee_attrition_prediction_API_FASTAPI/blob/main/Screenshot%202025-01-26%20133347.png)
 ![image](https://github.com/RajKhanke/employee_attrition_prediction_API_FASTAPI/blob/main/Screenshot%202025-01-26%20133422.png)
 
 
